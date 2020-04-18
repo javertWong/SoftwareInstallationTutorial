@@ -1,2 +1,2 @@
 # SoftwareInstallationTutorial
-Contains common software installation tutorials
+Contains commonly used software and installation tutorials
